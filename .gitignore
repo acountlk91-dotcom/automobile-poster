@@ -1,0 +1,4 @@
+cf_cookies.pkl
+output/
+__pycache__/
+*.pyc
